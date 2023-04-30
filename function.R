@@ -1,4 +1,4 @@
 funktion <- function(x){
-t <- p + x 
+t <- g + x 
 return(t)
 }
